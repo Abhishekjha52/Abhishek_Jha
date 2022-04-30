@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha52" alt="abhishekjha52" /></a> </p>
 
-<img src="right" alt="Coding" width="400" src="https://github.com/Abhishekjha52/gif"></img>
+<img align="right" alt="Coding" width="400" src="https://github.com/Abhishekjha52/gif"></img>
 
 - 🔭 I’m currently working on [Website on tourism](https://github.com/Abhishekjha52/HTML-CSS-Project)
 
